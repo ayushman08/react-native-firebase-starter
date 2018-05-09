@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.smartdata.firebasetestindfeatures;
 
 import android.app.Application;
 
