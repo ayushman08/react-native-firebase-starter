@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/gRPC-ProtoRPC/src/objective-c/ProtoRPC/ProtoRPC.m \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Target\ Support\ Files/gRPC-ProtoRPC/gRPC-ProtoRPC-prefix.pch \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/gRPC-ProtoRPC/src/objective-c/ProtoRPC/ProtoRPC.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Public/gRPC/GRPCClient/GRPCCall.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Public/gRPC-RxLibrary/RxLibrary/GRXWriter.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Public/gRPC-RxLibrary/RxLibrary/GRXWriteable.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/gRPC-ProtoRPC/src/objective-c/ProtoRPC/ProtoMethod.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBProtocolBuffers.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBBootstrap.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBArray.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBRuntimeTypes.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBCodedInputStream.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBCodedOutputStream.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBWireFormat.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBDescriptor.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBDictionary.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBExtensionRegistry.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBMessage.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBRootObject.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBUnknownField.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBUnknownFieldSet.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBUtilities.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/GPBWellKnownTypes.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Any.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Duration.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Timestamp.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Api.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Empty.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/FieldMask.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/SourceContext.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Struct.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Type.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Private/Protobuf/Wrappers.pbobjc.h \
+  /Users/sourabhtripathi/Desktop/react-native-firebase-starter/ios/Pods/Headers/Public/gRPC-RxLibrary/RxLibrary/GRXWriter+Transformations.h
